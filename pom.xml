@@ -38,6 +38,14 @@
 		</dependency>
 
 		<dependency>
+    		<groupId>org.junit.jupiter</groupId>
+    		<artifactId>junit-jupiter</artifactId>
+    		<version>5.10.0</version> <!-- Use a versão mais recente -->
+    		<scope>test</scope>
+		ß</dependency>
+
+
+		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
 		</dependency>
